@@ -1,0 +1,1 @@
+Simple project for exploring the react code-splitting feature.
